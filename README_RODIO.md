@@ -107,12 +107,3 @@ Add-DnsServerResourceRecord -ZoneName "rodio.tec.br" -Name "_dmarc" -Txt -Descri
 Os guias detalhados incluem:
 - `guia_m365_dkim.md` - Configuração de DKIM no Microsoft 365
 - `guia_spf_dmarc.md` - Melhores práticas para SPF e DMARC
-
-## 📱 Suporte
-
-Estamos à disposição para auxiliar na implementação e tirar dúvidas.
-
----
-
-*Desenvolvido especialmente para Ródio Tech Soluções*
-*© 2023 - Todos os direitos reservados* 
