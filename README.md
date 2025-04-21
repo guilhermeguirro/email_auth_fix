@@ -154,4 +154,4 @@ Ao implementar as correções, especialmente para DMARC, é recomendável uma ab
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes. 
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes. # email_auth_fix
