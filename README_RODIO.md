@@ -1,11 +1,11 @@
 # Email Auth Fix - Solução para Microsoft 365
 ## Desenvolvido especialmente para Ródio Tech Soluções
 
-![Ródio Tech](https://via.placeholder.com/150x50?text=RODIO+TECH)
+
 
 **Janaína Neto**,
 
-Desenvolvemos esta solução completa para resolver os problemas de autenticação de email identificados no domínio **rodio.tec.br**. Abaixo estão os detalhes de implementação e instruções de uso.
+Desenvolvi esta solução completa para resolver os problemas de autenticação de email identificados no domínio **rodio.tec.br**. Abaixo estão os detalhes de implementação e instruções de uso.
 
 ## 📋 Problema Identificado
 
